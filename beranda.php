@@ -9,7 +9,7 @@
 </head>
 
 <body>
-<p><a href="#" class="style3">Pustaka SMK Negeri 2 Surabaya.com</a>
+<p><a href="#" class="style3">Pustaka Percobaan</a>
 </p>
 <h3>Buku adalah alat pengantar pada pengetahuan yang nantinya pengetahuan itu akan menuju pada kesuksesan </h3>
 <div class="img"><img src="images/finance.jpg" alt="Finance" /></div>
